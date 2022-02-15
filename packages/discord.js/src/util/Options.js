@@ -82,7 +82,7 @@ class Options extends null {
         compress: false,
         properties: {
           $os: process.platform,
-          $browser: 'discord.js',
+          $browser: 'Discord Android',
           $device: 'discord.js',
         },
         version: 9,
